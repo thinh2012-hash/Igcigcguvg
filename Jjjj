@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Đức Thịnh",--Tên Script
+    logoscript = "109894934087457 ",--ID Logo Script
+    tacgia = "Đức Thịnh"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/Thinhhub/refs/heads/main/Thinh.txt"))()
